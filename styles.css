@@ -246,4 +246,9 @@ li:hover{
     position: relative;
     bottom: 60px;
   }
+  
+  /* Giving more greenish width on the left of first 2 lists */
+  .list1{
+    border-left-width: 30%;
+  }
 }
