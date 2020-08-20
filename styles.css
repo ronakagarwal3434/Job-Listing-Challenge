@@ -128,12 +128,14 @@ li{
 /* Hover States */
 .word2:hover{
   color:hsla(180, 31%, 55%, 1);
+  cursor: pointer;
 }
 
 /* Active State */
 li:hover{
   background-color: hsla(180, 31%, 55%, 1);
   color: #fff;
+  cursor: pointer;
 }
 
 /* Role Selected Div */
@@ -181,6 +183,7 @@ li:hover{
 
 .X:hover{
   background-color: #000;
+  cursor: pointer;
 }
 
 .upper-div span{
